@@ -1,0 +1,27 @@
+.titles 
+{
+    border : solid;
+    color : black;
+    background-color: teal;
+    text-align: center;
+    
+}
+
+.images 
+{
+    border : solid;
+    color : black;
+    display : flex;
+    justify-content: space-between;
+
+}
+
+.more 
+{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+
